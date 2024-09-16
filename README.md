@@ -13,7 +13,7 @@ Key features:
 
 ### Screenshot
 
-![Bookmark Explorer Screenshot](./screenshot/bookmark-explorer.png)
+![Bookmark Explorer Screenshot](./screenshots/bookmark-explorer.png)
 
 This screenshot showcases the main interface of Bookmark Explorer, demonstrating its clean layout and user-friendly design.
 
