@@ -13,7 +13,7 @@ Key features:
 
 ### Screenshot
 
-![Bookmark Explorer Screenshot](./screenshots/1.png)
+![Bookmark Explorer Screenshot](https://github.com/baiyulong/chrome-extensions/blob/main/bookmark-explorer/screenshots/1.png)
 
 This screenshot showcases the main interface of Bookmark Explorer, demonstrating its clean layout and user-friendly design.
 
